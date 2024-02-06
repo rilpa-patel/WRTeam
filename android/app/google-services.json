@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "859604804193",
+    "project_id": "wrteam-bffe8",
+    "storage_bucket": "wrteam-bffe8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:859604804193:android:0f6095556eda0fac870020",
+        "android_client_info": {
+          "package_name": "com.example.wrteam"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCsmp9rCj64MIsT7zbqKj0KXmC5_vJ8vCE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
